@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Fracground</string>
+
+    <string name="error_title">Something Went Wrong :(</string>
+    <string name="background_fail">Fracground could not change your wallpaper. Enable permission and try and again.</string>
+
+
+    <string name="fractal_prompt">Choose a Fractal</string>
+    <string name="back_color_prompt">Choose a Solid Color</string>
+    <string name="color1_prompt">Choose First Gradient Color</string>
+    <string name="color2_prompt">Choose Second Gradient Color</string>
+    <string name="detail_prompt">Choose Detail Level</string>
+
+    <string-array name="fractal_array">
+        <item>Julia 1</item>
+        <item>Julia 2</item>
+        <item>Mandelbrot</item>
+        <item>Fern</item>
+        <item>Dragon Curve</item>
+    </string-array>
+
+    <string-array name="back_color_array">
+        <item>Black</item>
+        <item>Go Blue</item>
+        <item>White</item>
+    </string-array>
+
+    <string-array name="detail_array">
+        <item>Low</item>
+        <item>Medium</item>
+        <item>High</item>
+    </string-array>
+
+</resources>
